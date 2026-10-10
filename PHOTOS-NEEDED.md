@@ -10,6 +10,7 @@ to, or a public-domain / CC0 / CC BY / CC BY-SA photo (never NC or ND).
 | Dune Allen (`dune-allen`) | `238-dune-allen.jpg` | Topsail Hill Preserve State Park, ~1.4 mi west | 2026-10-10 |
 | Inlet Beach (`inlet-beach`) | `247-inlet-beach.jpg` | Camp Helen State Park, next door (marsh view to the Gulf) | 2026-10-10 |
 | WaterSound (`watersound`) | `242-rosemary-beach.jpg` (shared) | Rosemary Beach, ~1.5 mi east | 2026-10-10 |
+| West Palm Beach (`west-palm-beach`) | `222-palm-beach.jpg` (shared) | Palm Beach aerial (Palm Beach's Midtown Beach is West Palm's nearest ocean beach; WPB skyline in the background) | 2026-10-10 |
 
 ## Could be better (real photo of the beach, but not ideal)
 
