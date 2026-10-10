@@ -46,3 +46,5 @@ its Photo credits screen, and beach-report.com shows them on each beach page.
 | `241-seagrove-beach.jpg` | TheBeachBro | CC BY-SA 4.0 | [Seagrove Beach.jpg](https://commons.wikimedia.org/wiki/File:Seagrove_Beach.jpg) | cropped to 4:3, light color/haze correction, resized |
 | `242-rosemary-beach.jpg` | Miamireader | CC BY-SA 4.0 | [Rosemary Beach, Florida Beach and Gulf of Mexico.jpg](https://commons.wikimedia.org/wiki/File:Rosemary_Beach,_Florida_Beach_and_Gulf_of_Mexico.jpg) | cropped to 4:3, light color/haze correction, resized |
 | `243-alys-beach.jpg` | Jason Eppink | CC BY 2.0 | [Emerald Coast beach](https://www.flickr.com/photos/38102495@N00/5922168517) | cropped to 4:3, light color/haze correction, resized |
+| `244-mexico-beach.jpg` | Bill Fauth | CC BY-SA 4.0 | [Mexico Beach, FL, USA.jpg](https://commons.wikimedia.org/wiki/File:Mexico_Beach,_FL,_USA.jpg) | cropped to 4:3, light color/haze correction, resized |
+| `245-cape-san-blas.jpg` | LTreadwell | CC BY-SA 4.0 | [Storm Ravished.jpg](https://commons.wikimedia.org/wiki/File:Storm_Ravished.jpg) | cropped to 4:3, light color/haze correction, resized |
